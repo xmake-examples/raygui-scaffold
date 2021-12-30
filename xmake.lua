@@ -6,7 +6,6 @@ target("raygui-scaffold")
     set_kind("binary")
     add_files("src/*.c")
     add_packages("raygui")
-    set_languages("c++11")
 
 --
 -- If you want to known more usage about xmake, please see https://xmake.io
