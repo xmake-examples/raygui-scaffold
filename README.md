@@ -1,4 +1,4 @@
-# 🌱 Raylib Scaffold
+# 🌱 RayGui Scaffold
 
 A minimal raygui project template
 
