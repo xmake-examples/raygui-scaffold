@@ -6,7 +6,7 @@ A minimal raygui project template
 
 Simply click the button below to get started:
 
-[![Use this template](https://img.shields.io/badge/use%20this%20template-brightgreen.svg?longCache=true&style=for-the-badge)](https://github.com/waruqi/raygui-scaffold/generate)
+[![Use this template](https://img.shields.io/badge/use%20this%20template-brightgreen.svg?longCache=true&style=for-the-badge)](https://github.com/xmake-examples/raygui-scaffold/generate)
 
 ## 🔨 Development
 
@@ -20,7 +20,7 @@ To setup and use the project you will need to have the following tools installed
 Clone the repository
 
 ```bash
-$ git clone https://github.com/waruqi/raygui-scaffold.git
+$ git clone https://github.com/xmake-examples/raygui-scaffold.git
 ```
 
 Change the working directory to the newly cloned repository:
